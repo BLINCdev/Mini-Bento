@@ -1,0 +1,19 @@
+"PLA_shrink"=0.3mm
+"fit_sliding"=0.5mm
+"fit_snap"=0.3mm
+"fit_tight"=0.2mm
+"m2_tap"= 1.75mm + "PLA_shrink"
+"m2_thin_wall"= 1.9mm + "PLA_shrink"
+"m2_standard"= 2.2mm + "PLA_shrink"
+"m2_head"= 3.45mm + "PLA_shrink"
+"m2.5_tap"= 2.05 + "PLA_shrink"
+"m2.5_standard"= 2.75 + "PLA_shrink"
+"m2.5_head"= 5mm + "PLA_shrink"
+"m3_tap"= 2.5mm + "PLA_shrink"
+"m3_standard"= 3.3mm + "PLA_shrink"
+"m3_head"= 6mm + "PLA_shrink"
+"connector_width"= 9.35mm
+"wire_width"= 3.1mm + "PLA_shrink"
+
+
+
